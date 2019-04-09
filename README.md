@@ -1,4 +1,4 @@
-# Hotel-Database
+# Hotel Database
 ![](databasehw7.gif) \
 A higher resolution demo video is here, https://youtu.be/gsWx_b-uqyE. \
 \
