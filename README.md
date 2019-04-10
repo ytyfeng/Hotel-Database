@@ -6,7 +6,8 @@ This is a database of different hotels, rooms, guests, and booking information i
 Users can query the database and update information through the command line interface. \
 \
 To run this, download all of the following files to the same directory: 
-```Main.java
+```
+Main.java
 QueryManager.java
 Menu.java
 UI.java
