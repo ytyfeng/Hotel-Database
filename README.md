@@ -19,4 +19,4 @@ Use the SQL commands in `createtable.sql` to create tables in your database, and
 Then type `make run` in your terminal (in the directory where all the `.java` files are located) to run the program.\
 It should pop up a menu that you can use to select which SQL command you want to run. \
 \
-As a side note, I used Oracle database via JDBC API. \
+As a side note, I used Oracle database via JDBC API. 
