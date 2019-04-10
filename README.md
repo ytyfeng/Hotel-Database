@@ -5,7 +5,7 @@ A higher resolution demo video is here, https://youtu.be/gsWx_b-uqyE. \
 This is a database of different hotels, rooms, guests, and booking information implemented using embedded SQL in Java. \
 Users can query the database and update information through the command line interface. \
 \
-To run this, download all of the following files to the same directory: \
+To run this, download all of the following files to the same directory: 
 ```Main.java
 QueryManager.java
 Menu.java
