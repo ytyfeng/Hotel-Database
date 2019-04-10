@@ -12,7 +12,7 @@ Menu.java
 UI.java
 Makefile
 ```
-Use the SQL commands in `createtable.sql` to create a table in your database, and then insert valid tuples of your liking into each of the four tables. \
+Use the SQL commands in `createtable.sql` to create tables in your database, and then insert valid tuples of your liking into each of the four tables. \
 Then type `make run` in your terminal (in the directory where all the `.java` files are located) to run the program.\
 It should pop up a menu that you can use to select which SQL command you want to run. \
 \
